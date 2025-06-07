@@ -11,6 +11,7 @@ export default function Home() {
       <Categories />
       <p>Nirob Dewn Limon</p>
       <p>r ekbar try kori</p>
+      <p>next one</p>
       <Footer />
     </main>
   )
