@@ -9,6 +9,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Categories />
+      <p>sjoeirjoie</p>
       <Footer />
     </main>
   )
