@@ -10,6 +10,7 @@ export default function Home() {
       <Hero />
       <Categories />
       <p>Nirob Dewn Limon</p>
+      <p>r ekbar try kori</p>
       <Footer />
     </main>
   )
