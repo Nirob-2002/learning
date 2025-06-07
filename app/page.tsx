@@ -12,6 +12,7 @@ export default function Home() {
       <p>Nirob Dewn Limon</p>
       <p>r ekbar try kori</p>
       <p>next one</p>
+      <p>next test</p>
       <Footer />
     </main>
   )
