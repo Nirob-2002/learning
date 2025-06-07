@@ -9,7 +9,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Categories />
-      <p>sjoeirjoie</p>
+      <p>Nirob Dewn Limon</p>
       <Footer />
     </main>
   )
